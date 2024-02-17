@@ -1,7 +1,7 @@
 {
     "id": "page-preview-helper",
     "name": "Page Preview Helper",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "minAppVersion": "1.3.5",
     "description": "Fix the core Page Preview plugin's behavior.",
     "author": "Ryota Ushio",

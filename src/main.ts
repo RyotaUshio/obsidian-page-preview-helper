@@ -32,8 +32,6 @@ declare module 'obsidian' {
 }
 
 export default class MyPlugin extends Plugin {
-	settings: MyPluginSettings;
-
 	async onload() {
 		this.app.workspace.onLayoutReady(() => {
 			const pagePreview = this.app.internalPlugins.plugins['page-preview'];
